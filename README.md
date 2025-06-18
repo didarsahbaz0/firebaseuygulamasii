@@ -7,21 +7,21 @@ Bu proje, modern web teknolojileri ve bulut tabanlı hizmetlerin entegrasyonu yo
 Uygulamada kullanıcılar, Google hesabı ile **OAuth 2.0** protokolü üzerinden kimlik doğrulaması gerçekleştirebilmektedir. Kişisel verilerini güvenli bir şekilde kaydedip görüntüleyebilmektedirler.
 
 ### Kullanılan Firebase Servisleri:
-- 🔐 Firebase Authentication
-- 🗄️ Firebase Realtime Database
-- 🌐 Firebase Hosting
+-  Firebase Authentication
+-  Firebase Realtime Database
+- Firebase Hosting
 
 ### Teknik Özellikler:
 - Mobil uyumlu ve responsive arayüz
 - Güvenli kullanıcı veri akışı
 - Ölçeklenebilir altyapı
 
-## 👥 Proje Ekibi
+## Projeyi Yapanlar
 
 - **Didar Şahbaz**  
 - **Yusuf Taha İsmailoğlu**
 
-## 🛠️ Kullanım
+## Kullanım
 
 Projeyi çalıştırmak için:
 1. Firebase projesi oluşturun ve yapılandırma bilgilerini `firebaseConfig` dosyasına girin.
